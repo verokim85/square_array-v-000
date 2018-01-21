@@ -3,3 +3,5 @@ def square_array(array)
     new_numbers = square**2
   end
 end
+
+return new_numbers
